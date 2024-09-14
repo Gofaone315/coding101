@@ -1,12 +1,12 @@
-###Coding 101###
+###Coding 101
 
 A programming-themed song, because who doesn't love coding memes?
 
-#About
+##About
 
 "Coding 101" is a humorous song that pokes fun at the world of programming. With lyrics that reference common coding struggles and memes, this song is sure to resonate with developers and non-developers alike.
 
-#Lyrics
+##Lyrics
 
 this is coding 101 (mhm)
 this is coding 101 (okay)
@@ -57,16 +57,16 @@ man don't touch it
 
 (algorithm)
 
-#License
+##License
 
-This song is licensed under [LICENSE]. This means you're free to share, modify, and use the song for non-commercial purposes, as long as you attribute the original creators.
+This song is licensed under [LICENSE](LICENSE). This means you're free to share, modify, and use the song for non-commercial purposes, as long as you attribute the original creators.
 
-#Credits
+##Credits
 
 - Music and lyrics by Gofaone Tlalang
 - Produced by Gofaone Tlalang
 - Inspired by the struggles and memes of the programming community
 
-#Contact
+##Contact
 
-If you'd like to reach out, collaborate, or just chat about coding and music, feel free to contact me at gofaonetlalang@gmail.com .
+If you'd like to reach out, collaborate, or just chat about coding and music, feel free to contact me at gofaonetlalang@gmail.com.
